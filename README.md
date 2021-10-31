@@ -11,7 +11,7 @@ Francesc Ballester Lecina i Oriol Raurell Gan.
 ## Arxius
 
 * `cryptocurrenices_2.csv`: Conjunt de dades generat.
-* `pr1_uoc_coinmarketcap.py`: Fitxer amb la implementació de web scraping desenvolupat en python.
+* `pr1_uoc_coinmarketcap-2.py`: Fitxer amb la implementació de web scraping desenvolupat en python.
 
 ## Conjunt de dades
 
