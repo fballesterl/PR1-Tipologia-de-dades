@@ -10,11 +10,14 @@ Francesc Ballester Lecina i Oriol Raurell Gan.
 
 ## Arxius
 
-* `cryptocurrenices_2.csv`: Conjunt de dades generat.
-* `pr1_uoc_coinmarketcap-2.py`: Fitxer amb la implementació de web scraping desenvolupat en python.
+* `top_criptocurrencies.csv`: Conjunt de dades generat.
+* `PR1_M2951_fballesterl_oraurell.py`: Fitxer amb la implementació de web scraping desenvolupat en python.
+* `NOM_PRACTICA.PDF/WORD`: Document amb les respostes plantejades a la pràctica.
 
 ## Conjunt de dades
+El conjunt de dades conté informació actualitzada sobre les 20 principals criptomonedes del mercat.
 
+Els atributs que apareixen en el conjunt de dades són:
 * `Nom`: Nom de la criptomoneda. 
 * `Simbol`: Simbol de la criptomoneda. 
 * `Cap. de mercat` : Valor de capitalització de mercat.
@@ -36,4 +39,12 @@ $ install requests
 $ install beautifulsoup4
 $ install pandas
 $ install json
+```
+
+## Execució de l'script
+
+L'script s'ha d'executar de la següent manera:
+
+```
+$ python PR1_M2951_fballesterl_oraurell.py
 ```
