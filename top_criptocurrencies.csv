@@ -1,0 +1,21 @@
+Rank,Nom,Simbol,Preu,En circulacio,Cap. de mercat,Volum(24h),%1h,%24h,%7d,url,Dia,Hora
+1,Bitcoin,BTC,"$60,990.41","18,864,675 BTC","$1,150,564,236,361","$31,649,535,626","-0,03%","0,00%","-2,52%",https://coinmarketcap.com/es/currencies/bitcoin/,05/11/2021,18:38
+2,Ethereum,ETH,"$4,489.51","118,220,003 ETH","$530,749,991,810","$16,242,368,253","0,05%","0,77%","1,28%",https://coinmarketcap.com/es/currencies/ethereum/,05/11/2021,18:38
+3,Binance Coin,BNB,$610.73,"166,801,148 BNB *","$101,870,558,975","$3,590,938,472","0,35%","11,45%","14,94%",https://coinmarketcap.com/es/currencies/binance-coin/,05/11/2021,18:38
+4,Tether,USDT,$1.00,"71,774,304,635 USDT *","$71,860,422,564","$77,924,580,568","-0,03%","0,04%","0,12%",https://coinmarketcap.com/es/currencies/tether/,05/11/2021,18:38
+5,Solana,SOL,$234.93,"301,074,360 SOL *","$70,731,000,469","$3,294,280,561","0,07%","-1,53%","14,96%",https://coinmarketcap.com/es/currencies/solana/,05/11/2021,18:38
+6,Cardano,ADA,$1.98,"33,284,973,581 ADA","$65,980,160,518","$2,426,345,837","-0,06%","0,67%","-1,87%",https://coinmarketcap.com/es/currencies/cardano/,05/11/2021,18:38
+7,XRP,XRP,$1.15,"47,081,679,946 XRP *","$54,367,568,606","$3,748,893,211","-0,09%","-1,86%","6,98%",https://coinmarketcap.com/es/currencies/xrp/,05/11/2021,18:38
+8,Polkadot,DOT,$51.22,"987,579,315 DOT *","$50,585,462,664","$1,981,697,530","0,48%","-3,42%","16,60%",https://coinmarketcap.com/es/currencies/polkadot-new/,05/11/2021,18:38
+9,Dogecoin,DOGE,$0.2616,"131,984,159,972 DOGE","$34,522,735,101","$1,705,172,907","-0,08%","1,44%","-9,75%",https://coinmarketcap.com/es/currencies/dogecoin/,05/11/2021,18:38
+10,USD Coin,USDC,$1.00,"33,775,757,166 USDC *","$33,788,268,454","$4,004,927,213","-0,02%","0,02%","0,06%",https://coinmarketcap.com/es/currencies/usd-coin/,05/11/2021,18:38
+11,SHIBA INU,SHIB,$0.00005745,"549,095,509,738,353 SHIB *","$31,546,479,650","$10,522,260,779","1,76%","11,97%","-21,06%",https://coinmarketcap.com/es/currencies/shiba-inu/,05/11/2021,18:38
+12,Terra,LUNA,$49.80,"399,182,055 LUNA *","$19,877,777,997","$1,269,411,839","-0,33%","4,36%","9,93%",https://coinmarketcap.com/es/currencies/terra-luna/,05/11/2021,18:38
+13,Avalanche,AVAX,$75.18,"220,286,577 AVAX *","$16,561,586,629","$699,558,799","0,03%","-0,72%","14,28%",https://coinmarketcap.com/es/currencies/avalanche/,05/11/2021,18:38
+14,Uniswap,UNI,$25.83,"627,596,089 UNI *","$16,212,094,289","$326,908,410","0,53%","0,69%","0,95%",https://coinmarketcap.com/es/currencies/uniswap/,05/11/2021,18:38
+15,Chainlink,LINK,$33.11,"463,009,554 LINK *","$15,328,462,940","$1,439,092,256","0,04%","8,61%","5,64%",https://coinmarketcap.com/es/currencies/chainlink/,05/11/2021,18:38
+16,Wrapped Bitcoin,WBTC,"$61,126.82","231,760 WBTC *","$14,166,732,532","$248,627,327","-0,09%","0,38%","-2,37%",https://coinmarketcap.com/es/currencies/wrapped-bitcoin/,05/11/2021,18:38
+17,Binance USD,BUSD,$1.00,"13,816,939,213 BUSD *","$13,823,138,190","$7,240,951,877","-0,02%","0,06%","0,04%",https://coinmarketcap.com/es/currencies/binance-usd/,05/11/2021,18:38
+18,Litecoin,LTC,$198.31,"68,906,808 LTC","$13,664,920,223","$1,879,939,613","-0,10%","-0,63%","1,26%",https://coinmarketcap.com/es/currencies/litecoin/,05/11/2021,18:38
+19,Polygon,MATIC,$1.89,"6,804,312,959 MATIC *","$12,871,219,802","$904,447,834","0,04%","0,51%","-5,15%",https://coinmarketcap.com/es/currencies/polygon/,05/11/2021,18:38
+20,Algorand,ALGO,$1.85,"6,218,821,004 ALGO *","$11,521,131,506","$282,278,321","-0,34%","1,27%","-1,53%",https://coinmarketcap.com/es/currencies/algorand/,05/11/2021,18:38
