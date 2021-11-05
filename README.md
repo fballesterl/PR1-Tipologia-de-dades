@@ -1,10 +1,10 @@
-# PR1-Tipologia-de-dades
+# Pràctica 1: Web scraping
 
 ## Descripció
 
 Extreu informació sobre les 20 criptomonedes més importants del mercat. La informació s'extreu de la pàgina web [Cryptocurrency Market Capitalizations](https://coinmarketcap.com/es/all/views/all/).
 
-## Membres de la PR1
+## Membres de la Pràctica 1
 
 Francesc Ballester Lecina i Oriol Raurell Gan.
 
