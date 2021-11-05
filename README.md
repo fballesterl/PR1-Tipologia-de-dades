@@ -15,6 +15,7 @@ Francesc Ballester Lecina i Oriol Raurell Gan.
 * `NOM_PRACTICA.PDF/WORD`: Document amb les respostes plantejades a la pràctica.
 
 ## Conjunt de dades
+
 El conjunt de dades conté informació actualitzada sobre les 20 principals criptomonedes del mercat.
 
 Els atributs que apareixen en el conjunt de dades són:
@@ -33,7 +34,6 @@ Els atributs que apareixen en el conjunt de dades són:
 ## Requeriments
 
 Per executar l'script és necessari instal·lar previament les següents biblioteques:
-
 ```
 $ install requests
 $ install beautifulsoup4
@@ -44,7 +44,6 @@ $ install json
 ## Execució de l'script
 
 L'script s'ha d'executar de la següent manera:
-
 ```
 $ python PR1_M2951_fballesterl_oraurell.py
 ```
