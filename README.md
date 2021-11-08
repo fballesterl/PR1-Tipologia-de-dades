@@ -38,6 +38,7 @@ Per executar l'script és necessari instal·lar previament les següents bibliot
 $ install requests
 $ install beautifulsoup4
 $ install pandas
+$ install datetime
 ```
 
 ## Execució de l'script
