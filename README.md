@@ -11,7 +11,7 @@ Francesc Ballester Lecina i Oriol Raurell Gan.
 ## Arxius
 
 * `top_criptocurrencies.csv`: Conjunt de dades generat.
-* `PR1_M2951_fballesterl_oraurell.py`: Fitxer amb la implementació de web scraping desenvolupat en python.
+* `src/PR1_M2951_fballesterl_oraurell.py`: Fitxer amb la implementació de web scraping desenvolupat en python.
 * `PR1_M2951_fballesterl_oraurell.pdf`: Document amb les respostes plantejades a la pràctica.
 
 ## Conjunt de dades
@@ -38,7 +38,6 @@ Per executar l'script és necessari instal·lar previament les següents bibliot
 $ install requests
 $ install beautifulsoup4
 $ install pandas
-$ install json
 ```
 
 ## Execució de l'script
