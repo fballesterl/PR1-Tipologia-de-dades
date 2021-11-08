@@ -12,7 +12,7 @@ Francesc Ballester Lecina i Oriol Raurell Gan.
 
 * `top_criptocurrencies.csv`: Conjunt de dades generat.
 * `PR1_M2951_fballesterl_oraurell.py`: Fitxer amb la implementació de web scraping desenvolupat en python.
-* `NOM_PRACTICA.PDF/WORD`: Document amb les respostes plantejades a la pràctica.
+* `PR1_M2951_fballesterl_oraurell.pdf/docx`: Document amb les respostes plantejades a la pràctica en format .pdf i .docx.
 
 ## Conjunt de dades
 
@@ -47,3 +47,8 @@ L'script s'ha d'executar de la següent manera:
 ```
 $ python PR1_M2951_fballesterl_oraurell.py
 ```
+
+## Enllaç Zenodo
+
+* Enllaç del DOI: 10.5281/zenodo.5651172
+* Url d’accés: https://doi.org/10.5281/zenodo.5651172
